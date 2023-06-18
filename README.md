@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 <div align="center">
 
-  ![xx](https://github.com/deshabml/deshabml/blob/main/dribbble_gif_1x.gif?w=450)
+  ![xx](https://github.com/deshabml/deshabml/blob/main/gifImage.gif?w=450)
 
   <a href="">![SWIFT](https://img.shields.io/badge/-SWIFT-orange)</a>
   <a href="">![XCODE](https://img.shields.io/badge/-XCODE-blueviolet)</a>
