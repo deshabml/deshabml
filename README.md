@@ -25,10 +25,15 @@ Here are some ideas to get you started:
   <a href="">![UIKIT](https://img.shields.io/badge/-UIkit-yellow)</a>
   <a href="">![SwiftUi](https://img.shields.io/badge/-SwiftUI-yellow)</a>
   <a href="">![Alamofire](https://img.shields.io/badge/-Alamofire-red)</a>
-  <a href="">![Firebase](https://img.shields.io/badge/-RealmSwift-blue)</a>
+  <a href="">![RealmSwift](https://img.shields.io/badge/-RealmSwift-blue)</a>
   <a href="">![Firebase](https://img.shields.io/badge/-Firebase-red)</a>
   <a href="">![MVC](https://img.shields.io/badge/-MVC-green)</a>
   <a href="">![MVP](https://img.shields.io/badge/-MVP-green)</a>
   <a href="">![MVVM](https://img.shields.io/badge/-MVVM-green)</a>
+  <a href="">![MVVM + Combine](https://img.shields.io/badge/-MVVM+Combine-orange)</a>
+  <a href="">![UnitTests](https://img.shields.io/badge/-UnitTests-blue)</a>
+  <a href="">![UITests](https://img.shields.io/badge/-UITests-blueviolet)</a>
+  <a href="">![Async/Await](https://img.shields.io/badge/-Async/Await-red)</a>
+  <a href="">![SwiftyJSON](https://img.shields.io/badge/-SwiftyJSON-yellow)</a>
   <a href="">![CodeWars](https://www.codewars.com/users/deshab/badges/micro)</a>
   
