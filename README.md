@@ -30,7 +30,7 @@ Here are some ideas to get you started:
   <a href="">![MVC](https://img.shields.io/badge/-MVC-green)</a>
   <a href="">![MVP](https://img.shields.io/badge/-MVP-green)</a>
   <a href="">![MVVM](https://img.shields.io/badge/-MVVM-green)</a>
-  <a href="">![MVVM + Combine](https://img.shields.io/badge/-MVVM+Combine-orange)</a>
+  <a href="">![MVVM + Coordinator](https://img.shields.io/badge/-MVVM+Coordinator-orange)</a>
   <a href="">![UnitTests](https://img.shields.io/badge/-UnitTests-blue)</a>
   <a href="">![UITests](https://img.shields.io/badge/-UITests-blueviolet)</a>
   <a href="">![Async/Await](https://img.shields.io/badge/-Async/Await-red)</a>
