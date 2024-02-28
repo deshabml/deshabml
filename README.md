@@ -26,6 +26,7 @@ Here are some ideas to get you started:
   <a href="">![SwiftUi](https://img.shields.io/badge/-SwiftUI-yellow)</a>
   <a href="">![Alamofire](https://img.shields.io/badge/-Alamofire-red)</a>
   <a href="">![RealmSwift](https://img.shields.io/badge/-RealmSwift-blue)</a>
+  <a href="">![CoreData](https://img.shields.io/badge/-CoreData-orange)</a>
   <a href="">![Firebase](https://img.shields.io/badge/-Firebase-red)</a>
   <a href="">![MVC](https://img.shields.io/badge/-MVC-green)</a>
   <a href="">![MVP](https://img.shields.io/badge/-MVP-green)</a>
