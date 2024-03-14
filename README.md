@@ -37,6 +37,6 @@ Here are some ideas to get you started:
   <a href="">![Async/Await](https://img.shields.io/badge/-Async/Await-red)</a>
   <a href="">![SwiftyJSON](https://img.shields.io/badge/-SwiftyJSON-yellow)</a>
   <a href="">![Combine](https://img.shields.io/badge/-Combine-blueviolet)</a>
-  <a href="">![Objective-C](https://img.shields.io/badge/-Objective-C-blue)</a>
+  <a href="">![Objective-C](https://img.shields.io/badge/-ObjectiveC-blue)</a>
   <a href="">![CodeWars](https://www.codewars.com/users/deshab/badges/micro)</a>
   
